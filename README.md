@@ -76,8 +76,8 @@ I turn ambitious product ideas into systems that don't fall over when real users
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=notnick2&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Varun's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notnick2&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=notnick2&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Varun's GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notnick2&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ I turn ambitious product ideas into systems that don't fall over when real users
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notnick2&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notnick2&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </p>
 
 ---
