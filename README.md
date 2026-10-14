@@ -71,30 +71,6 @@ I turn ambitious product ideas into systems that don't fall over when real users
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notnick2&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
-</p>
-
----
-
-### 🧭 What I'm About
-
-```ts
-const varun = {
-  role: "Full-Stack & AI Engineer",
-  superpower: "Taking products 0 → scale without the wheels coming off",
-  builds: ["AI SaaS", "LLM pipelines", "production chatbots", "scalable backends"],
-  principles: ["SOLID", "modular architecture", "type-safe everything", "ship it"],
-  scaledTo: "600K+ users · millions of requests · tens of millions of tokens",
-  alwaysShipping: true,
-};
-```
 
 ---
 
